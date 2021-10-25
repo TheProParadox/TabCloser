@@ -1,7 +1,2 @@
-# Tab-Closer
-
-This chrome extension controls the tab and we can set when it shall close!!
-
-Version-1.0 (Still have some bugs :/)
-
-Made by Bhavik :D
+# TabCloser-ChromeExtension
+Automatically closes tabs (include other windows) with timer and set timer for closing about each tab
